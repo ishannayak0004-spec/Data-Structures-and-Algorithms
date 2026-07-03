@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ishannayak0004-spec/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
